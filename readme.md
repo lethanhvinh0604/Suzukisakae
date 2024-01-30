@@ -22,6 +22,7 @@
 <h3 align="center"> Some of my projects: </h3>
 
 - Winforms application to register and manage Vietnam travel trips: `C# `, `SQL Server`, `Entity Framework`, `Winform`. Link project: [Project/QuanLyTourDuLich](https://github.com/Suzukisakae/Project_Software)
+- Electronic library: `C#`, `SQL Server`, `Winform`. Link project: [Project/QuanLyThuVien](https://github.com/Suzukisakae/Electronic-library)
 - Web Company human resources management: `Java`, `MySQL`, `JDBC`. Link project: [Project/QuanLyNhanSu](https://github.com/Suzukisakae/projectweb)
 - Game Guess My Number: `HTML`, `CSS`, `Javascript`. Link project: [Project/GameDoanSo](https://github.com/Suzukisakae/Guess-Moe-Number)
 
