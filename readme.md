@@ -2,6 +2,7 @@
 <h3 align="center">I am a student at Ho Chi Minh City University of Technology and Education (HCMUTE)</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=suzukisakae&label=Profile%20views&color=0e75b6&style=flat" alt="suzukisakae" /> </p> -->
+<h4>Visit My Portfolio: https://suzukisakae.github.io/Portfolio/ </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
