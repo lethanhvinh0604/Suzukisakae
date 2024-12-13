@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lê Thành Vinh</h1>
-<h3 align="center">I am a student at Ho Chi Minh City University of Technology and Education (HCMUTE)</h3>
+<h3 align="center">I am a final student at Ho Chi Minh City University of Technology and Education (HCMUTE)</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=suzukisakae&label=Profile%20views&color=0e75b6&style=flat" alt="suzukisakae" /> </p> -->
-<h4 align="center">Visit My Portfolio: https://suzukisakae.github.io/Portfolio/ </h4>
+<h4 align="center">Visit My Portfolio: https://lethanhvinh-portfolio-v2.vercel.app/ </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -21,14 +21,12 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suzukisakae&show_icons=true&locale=en" alt="suzukisakae" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukisakae&" alt="suzukisakae" /></p>
-
+ <!--
 <h3 align="center"> Some of my projects: </h3>
-
 - Winforms application to register and manage Vietnam travel trips: `C# `, `SQL Server`, `Entity Framework`, `Winform`. Link project: [Project/QuanLyTourDuLich](https://github.com/Suzukisakae/Project_Software)
 - Electronic library: `C#`, `SQL Server`, `Winform`. Link project: [Project/QuanLyThuVien](https://github.com/Suzukisakae/Electronic-library)
 - Web Company human resources management: `Java`, `MySQL`, `JDBC`. Link project: [Project/QuanLyNhanSu](https://github.com/Suzukisakae/projectweb)
-- Game Guess My Number: `HTML`, `CSS`, `Javascript`. Link project: [Project/GameDoanSo](https://github.com/Suzukisakae/Guess-Moe-Number)
-
+- Game Guess My Number: `HTML`, `CSS`, `Javascript`. Link project: [Project/GameDoanSo](https://github.com/Suzukisakae/Guess-Moe-Number) -->
 <h3 align="center"> Thanks for reading</h3>
 <div align="center">
 <image align="center"> <img src="./image/img.gif"/> </image>
